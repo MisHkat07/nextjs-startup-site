@@ -16,7 +16,7 @@ const Hero = () => {
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                   Here, we are passionate about building cutting-edge solutions
-                  that drive growth, innovation, and success. Whether you're a
+                  that drive growth, innovation, and success. Whether you are a
                   business leader, an entrepreneur, or a tech enthusiast, our
                   platform is here to empower you with the tools and knowledge
                   to stay ahead in the digital era.
