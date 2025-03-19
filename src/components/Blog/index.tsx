@@ -3,6 +3,7 @@ import SingleBlog from "./SingleBlog";
 import blogData from "./blogData";
 
 const Blog = () => {
+
   return (
     <section
       id="blog"
